@@ -1,3 +1,7 @@
 {
-  "accentColor": ""
+  "accentColor": "#2e9bba",
+  "cssTheme": "Typora-Vue",
+  "theme": "moonstone",
+  "textFontFamily": "Hiragino Sans",
+  "interfaceFontFamily": "Hiragino Sans"
 }
