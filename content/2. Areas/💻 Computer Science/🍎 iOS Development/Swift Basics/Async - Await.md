@@ -1,0 +1,1 @@
+Tl; Dr asyn await functions are executed asynchronously which means they can wait for Tre previous functions to finish executing before executing themselves.  
