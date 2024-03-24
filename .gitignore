@@ -1,1 +1,25 @@
 .obsidian
+.DS_Store
+.gitignore
+node_modules
+public
+prof
+tsconfig.tsbuildinfo
+.obsidian
+.quartz-cache
+private/
+.replit
+replit.nix
+content/0. Directory/
+content/1. Projects/
+content/2. Areas/⌨️ Writing
+content/2. Areas/🏃🏻‍♀️Health and Fitness
+content/2. Areas/💡 Boards
+content/2. Areas/🏢 Work
+content/2. Areas/📖 Books
+content/2. Areas/📝 Notes
+content/2. Areas/💻 Computer Science/🎓 Master's Studies
+content/3. Resources/
+content/4. Archives/
+**/private
+private

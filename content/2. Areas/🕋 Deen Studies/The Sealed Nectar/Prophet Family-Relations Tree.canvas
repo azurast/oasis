@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"83143bd90b9eb968","x":-200,"y":0,"width":380,"height":60,"type":"text","text":"# [[Prophet Muhammad ﷺ]]"},
+		{"id":"a4425c31665ba9bc","x":360,"y":0,"width":250,"height":60,"type":"text","text":"## [[Khadijah]]"}
+	],
+	"edges":[
+		{"id":"d3320fe7305b4ac7","fromNode":"83143bd90b9eb968","fromSide":"right","toNode":"a4425c31665ba9bc","toSide":"left","label":"first wive"}
+	]
+}
