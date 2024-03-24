@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "157da6574083cd53",
+        "id": "0127b67db3bb556b",
         "type": "tabs",
         "children": [
           {
-            "id": "cd42a08d28e8e2e4",
+            "id": "ed5c8a9aa9284730",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -131,8 +131,54 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cd42a08d28e8e2e4",
+  "active": "ef1e4bb210666049",
   "lastOpenFiles": [
-    "Hello world.md"
+    "quartz.config.ts",
+    "CNAME",
+    "index.d.ts",
+    "quartz/i18n/locales/de-DE.ts",
+    "quartz/i18n/locales/ar-SA.ts",
+    "quartz/i18n/locales/it-IT.ts",
+    "quartz/i18n/locales/uk-UA.ts",
+    "quartz/i18n/locales/ru-RU.ts",
+    "quartz/i18n/locales/ja-JP.ts",
+    "quartz/i18n/locales/en-US.ts",
+    "quartz/i18n/locales/es-ES.ts",
+    "quartz/static/og-image.png",
+    "quartz/static/thought-oasis-blue.svg",
+    "quartz/static/icon.png",
+    "README.md",
+    "CODE_OF_CONDUCT.md",
+    "docs/tags/component.md",
+    "docs/tags/plugin.md",
+    "docs/features/upcoming features.md",
+    "docs/features/RSS Feed.md",
+    "docs/features/recent notes.md",
+    "docs/features/wikilinks.md",
+    "docs/features/OxHugo compatibility.md",
+    "docs/features/Docker Support.md",
+    "docs/features/Mermaid diagrams.md",
+    "docs/features/table of contents.md",
+    "docs/features/popover previews.md",
+    "docs/features/index.md",
+    "docs/features/syntax highlighting.md",
+    "docs/features/Obsidian compatibility.md",
+    "docs/features/darkmode.md",
+    "docs/features/breadcrumbs.md",
+    "docs/features/SPA Routing.md",
+    "docs/features/full-text search.md",
+    "docs/features/callouts.md",
+    "docs/features/graph view.md",
+    "docs/features/explorer.md",
+    "docs/features/backlinks.md",
+    "docs/features/i18n.md",
+    "docs/images/github-quick-setup.png",
+    "docs/images/dns records.png",
+    "docs/images/quartz transform pipeline.png",
+    "docs/images/quartz layout.png",
+    "docs/images/github-init-repo-options.png",
+    "content/2. Areas/🕋 Deen Studies/Al Qawa'id al-Muthla/The Second Principle 62c0c0c46094479e96e0e095306d657b/The Fourth Principle d4ea5fb3e0094be1852f81203655d6c0/Screen_Shot_2021-10-12_at_02.29.39.png",
+    "content/2. Areas/🕋 Deen Studies/Al Qawa'id al-Muthla/The Second Principle 62c0c0c46094479e96e0e095306d657b/The Fourth Principle d4ea5fb3e0094be1852f81203655d6c0/Screen_Shot_2021-10-12_at_02.18.37.png",
+    "content/2. Areas/🕋 Deen Studies/The Sealed Nectar/Prophet Family-Relations Tree.canvas"
   ]
 }

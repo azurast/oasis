@@ -1,3 +1,5 @@
 {
-  "accentColor": ""
+  "accentColor": "",
+  "cssTheme": "Typora-Vue",
+  "theme": "moonstone"
 }
