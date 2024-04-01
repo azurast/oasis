@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hello world.md",
-                "mode": "source",
-                "source": false
+                "file": "content/2. Areas/🕋 Deen Studies/Al Aqeedah Al Wasitiyyah/English Class/01 Muqaddimah.md",
+                "mode": "preview",
+                "source": true
               }
             }
           }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Hello world.md",
+            "file": "content/2. Areas/🕋 Deen Studies/Al Aqeedah Al Wasitiyyah/English Class/01 Muqaddimah.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Hello world.md",
+            "file": "content/2. Areas/🕋 Deen Studies/Al Aqeedah Al Wasitiyyah/English Class/01 Muqaddimah.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Hello world.md"
+            "file": "content/2. Areas/🕋 Deen Studies/Al Aqeedah Al Wasitiyyah/English Class/01 Muqaddimah.md"
           }
         }
       }
@@ -131,8 +131,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ef1e4bb210666049",
+  "active": "cd42a08d28e8e2e4",
   "lastOpenFiles": [
+    "content/2. Areas/🕋 Deen Studies/Al Aqeedah Al Wasitiyyah/English Class/00 Introduction.md",
+    "content/2. Areas/🕋 Deen Studies/Al Aqeedah Al Wasitiyyah/On Aqeedah Al Wasithiyah.md",
     "Hello world.md"
   ]
 }

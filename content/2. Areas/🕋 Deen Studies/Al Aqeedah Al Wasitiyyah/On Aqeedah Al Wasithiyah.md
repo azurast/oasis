@@ -18,6 +18,7 @@ I like taking notes with my iPad too, and I happen to take the notes for the cla
 - [[Pertemuan 10 - Aqidah Al Wasitiyyah.pdf|09 - Luasnya Rahmat Allah]]
 - [[Pertemuan 11 - Aqidah Al Wasitiyyah.pdf|11 - Menjauhi Sebab-Sebab Amarah Allah]]
 
+I might convert them to markdown if I have the chance InshaAllah.
 ## English Class
 
 > [! Info]

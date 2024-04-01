@@ -29,23 +29,21 @@ Created: January 21, 2021 5:11 AM
 
 > "In the name of Allah, the Beneficent, the Merciful. All praise is due to Allah who sent His Messenger with guidance and the religion of truth for it to be supreme."
 
-> 
-
-- ****Bismillahirrahmanirrahim****
+- ***Bismillahirrahmanirrahim***
 
     - Almost every Islamic book begins with the basmalah.
 
     - The 'ba' here means Astainu bika ya Allah (I seek your help O Allah)
 
-    - Bismillah is you are ****seeking Allah's help through the barakah in mentioning (all) Allah's name.****
+    - Bismillah is you are **seeking Allah's help through the barakah in mentioning (all) Allah's name.**
 
     - Three are mentioned directly
 
-        1. ****Allah**** : The greatest name of Allah, Dzul Uloohiyah which means 'The One Deserving of Al-Uloohiyah' (being worshipped alone). All the other names of Allah are found within the name 'Allah'.
+        1. ***Allah*** : The greatest name of Allah, Dzul Uloohiyah which means 'The One Deserving of Al-Uloohiyah' (being worshipped alone). All the other names of Allah are found within the name 'Allah'.
 
-        2. ****Ar-Rahman**** : Most Merciful
+        2. ***Ar-Rahman*** : Most Merciful
 
-        3. ****Ar-Rahim**** : The Bestower of Mercy → Allah gives his mercy to whomsoever He wills. He reserved the majority of it for the believers on the day of judgement.
+        3. ***Ar-Rahim*** : The Bestower of Mercy → Allah gives his mercy to whomsoever He wills. He reserved the majority of it for the believers on the day of judgement.
 
         Ar-Rahman & Ar-Rahim both came from the attribute of Rahmah (mercy)
 
@@ -61,7 +59,7 @@ Created: January 21, 2021 5:11 AM
 
         2. When writing letters or books say the full sentence 'Bismillahirrahmanirrahim'
 
-- ****Alhamdulillah****
+- ***Alhamdulillah***
 
     - The praise to Allah. This is also based on the Qur'an and Sunnah.
 
@@ -73,21 +71,21 @@ Created: January 21, 2021 5:11 AM
 
     - The difference between (general) praise & hamd
 
-    - What makes ****hamd for Allah only is the love and the veneration and the honour that you have for Allah.****
+    - What makes ***hamd for Allah only is the love and the veneration and the honour that you have for Allah.***
 
     - Ibn Taymiyyah said "Just mentioning the good thing about someone else is just a general praise, but hamd is to praise with complete love and veneration and honour."
 
     - The word 'Al' in Alhamdulillah means 'All',  all praise, all types of praise. So why does Allah deserve all types of praise? It's because Allah has Al-Asmaul Husna, Asma Was Sifaat, the perfect names, attributes, and actions nobody has but Him.
 
-- ****Mention the Messengers****
+- ***Mention the Messengers***
 
     Shaykh Ustaimin mentioned that the word messenger here is not restricted to Messenger Muhammad only but **encompasses all the messengers** Allah has sent, but of course our Prophet Muhamamd is the most complete example of this.
 
-- ****Guidance & Religion of Truth****
+- ***Guidance & Religion of Truth***
 
-    - Guidance (huda) here means ****beneficial knowledge**** and the religion of truth (deenul haqq) is ****righteous actions****. Every prophet was sent down with these 2 things.
+    - Guidance (huda) here means ***beneficial knowledge*** and the religion of truth (deenul haqq) is ***righteous actions***. Every prophet was sent down with these 2 things.
 
-    - The religion of ****Islam is sent to be supreme****/dominant to overpower, overcome, to subjugate. That's why Islam is not a choice, it is the only choice, as it is ****the only religion Allah is pleased with.****
+    - The religion of ***Islam is sent to be supreme***/dominant to overpower, overcome, to subjugate. That's why Islam is not a choice, it is the only choice, as it is ***the only religion Allah is pleased with.***
 
   
 
@@ -105,17 +103,11 @@ Created: January 21, 2021 5:11 AM
 
 > "I testify that there is no deity worthy of worship except Allah alone and he has no partners in attestation to His monotheism. And I testify that Muhammad is His servant and Messenger.  May Allah shower His blessing upon him and his household and provide him abundant peace."
 
-> 
+- ***Asyhadu***
 
-- ****Asyhadu****
+    - Means '***I bear witness***'. This is mentioned in the Qur'an :
 
-    - Means '****I bear witness****'. This is mentioned in the Qur'an :
-
-    > "Allah witnesses that there is no deity except Him, and [so do] the angels and those of knowledge - [that He is] maintaining [creation] in justice. There is no deity except Him, the Exalted in Might, the Wise."
-
-    - QS Al-Imran (3:18)
-
-    > 
+![[3-18]]
 
     - The terminology entails :
 
@@ -127,13 +119,13 @@ Created: January 21, 2021 5:11 AM
 
         4. Sincerity → you have to have ikhlas
 
-    - Asyhadu also means '****I believe'**** or ****'I confirm'****
+    - Asyhadu also means '***I believe'*** or ***'I confirm'***
 
     - Comes with conditions. It is not just a word/phrase that is said without meaning. Just saying it is not enought. It is saying it along with its conditions.
 
     - What is it that you testify to? Is explained with the next words;
 
-- ****aLaa Ilaaha Ilalllah****
+- ***aLaa Ilaaha Ilalllah***
 
     - 'Sullam Al-Usool..'
 
@@ -159,15 +151,13 @@ Created: January 21, 2021 5:11 AM
 
     > "And ask those We sent before you of Our messengers; have We made besides the Most Merciful deities to be worshipped?"
 
-    - QS Az-Zukhruf (43:45)
+    - QS Az-Zukhruf (43:45) 
 
-    > 
-
-    - When we translate 'Laa Ilaaha Ilallah' it directly means 'There is nothing that is worshipped except Allah'. However it is factually incorrect as there are many people who worship other than Allah. Therefore, the scholars said that there is a common understanding in the meanig, a hidden word 'bil haqq'  which is ****'There is no God deserving of worship/worthy of worship/truthfully worshipped/worshipped in truth other than Allah'****.
+    - When we translate 'Laa Ilaaha Ilallah' it directly means 'There is nothing that is worshipped except Allah'. However it is factually incorrect as there are many people who worship other than Allah. Therefore, the scholars said that there is a common understanding in the meanig, a hidden word 'bil haqq'  which is ***'There is no God deserving of worship/worthy of worship/truthfully worshipped/worshipped in truth other than Allah'***.
 
     Remember : An-Nafi (Negating (anything that is worshipped besides Allah)) & Isbat (Affirming (the worship of Allah alone).
 
-- ****Wahdahu La Syarikala****
+- ***Wahdahu La Syarikala***
 
     - 'Alone and with no partner' is an emphasis on the previous word.
 
@@ -183,7 +173,7 @@ Created: January 21, 2021 5:11 AM
 
         **Ilallah** → but Allah 
 
-- ****Iqraran bihi wat tawheeda****
+- ***Iqraran bihi wat tawheeda***
 
     Iqrar → shahadah, declaring. This emphasize the 'asyhadu'
 
@@ -201,39 +191,39 @@ Created: January 21, 2021 5:11 AM
 
     - **Islamically**
 
-    Tawheed can be divided into 3 or 2.
+Tawheed can be divided into 3 or 2.
 
-        If it's divided into 3, the breakdown becomes like this :
+If it's divided into 3, the breakdown becomes like this :
 
-        1. **Tawhed Ar-Ruboobiyyah** → The oneness of Allah in His Lordship 
+1. **Tawhed Ar-Ruboobiyyah** → The oneness of Allah in His Lordship 
 
-            Actions that are unique to Allah, only He is capable of doing.
+	Actions that are unique to Allah, only He is capable of doing.
 
-        2. **Tawheed Al-Uloohiyah / Al-Ilahiyyah** → The oneness of Allah in His Worship / Divinity.
+2. **Tawheed Al-Uloohiyah / Al-Ilahiyyah** → The oneness of Allah in His Worship / Divinity.
 
-            Our actions towards Allah.
+	Our actions towards Allah.
 
-        3. **Tawheed Asma Was Sifaat** → The oneness of Allah in His Names and Attributes
+3. **Tawheed Asma Was Sifaat** → The oneness of Allah in His Names and Attributes
 
-        From among the early scholars who used these terms was Imam Abu Hanifah.
+From among the early scholars who used these terms was Imam Abu Hanifah.
 
-        If it's divided into 2, the breakdown becomes like this :
+If it's divided into 2, the breakdown becomes like this :
 
-        Tawheed Ar-Ruboobiyyah + Asma Was Sifaat becomes :
+Tawheed Ar-Ruboobiyyah + Asma Was Sifaat becomes :
 
-        1. **Tawheed Al Ma'rifati wal Isbat** → The tawheed of knowing and affirming. 
+1. **Tawheed Al Ma'rifati wal Isbat** → The tawheed of knowing and affirming. 
 
-        Because what is required from you as it relates to Allah's lordship & as it relates to His names and attributes is to believe, to affirm, to know, and to confirm. It is primarily knowledge and affirmation. 
+Because what is required from you as it relates to Allah's lordship & as it relates to His names and attributes is to believe, to affirm, to know, and to confirm. It is primarily knowledge and affirmation. 
 
-        And as for the tawheed of singling out Allah in worship it becomes 
+And as for the tawheed of singling out Allah in worship it becomes 
 
-        2. **Tawheed Al-Qasi wa Thalab** → The tawheed of intentions and seeking out Allah through your actions. 
+2. **Tawheed Al-Qasi wa Thalab** → The tawheed of intentions and seeking out Allah through your actions. 
 
-        What is required from you is the practice, the manifestation of the knowledge you have through amal that encompasses actions and intentions and seeking Allah through your worship.
+What is required from you is the practice, the manifestation of the knowledge you have through amal that encompasses actions and intentions and seeking Allah through your worship.
 
-        Some scholars call them **Tawheed of Ilm** and **Tawheed of Amal**.
+Some scholars call them **Tawheed of Ilm** and **Tawheed of Amal**.
 
-- ****Wa Asyhadu Anna Muuhammadan Abduhu Wa Rasuluhu****
+- ***Wa Asyhadu Anna Muuhammadan Abduhu Wa Rasuluhu***
 
     Here we encounter another statement of bearing witness. This is important to note because the first pillar of Islam is the Shahadahtain for without it you can't be considered a muslim.
 
@@ -265,7 +255,7 @@ Created: January 21, 2021 5:11 AM
 
         - We only worship Allah the way he showed us to do it.
 
-- ****Salallahu alaihi wa ala sallam Tasliman Mazidan****
+- ***Salallahu alaihi wa ala sallam Tasliman Mazidan***
 
     The salawat :
 
@@ -289,23 +279,17 @@ Created: January 21, 2021 5:11 AM
 
 ## The Rightly Guided Creed
 
-  
-
 ![Introduction%206384711b364740edac78bedefceab9a1/Screen_Shot_2021-02-03_at_16.56.53.png](Screen_Shot_2021-02-03_at_16.56.53.png)
-
-  
 
 > "This is the creed of those upon the path of the saved and aided sect till the last hour (that is) AhlusSunnah wal Jama'ah"
 
-> 
-
-- ****2 takeaways :****
+- ***2 takeaways :***
 
     - Islam will break down into sects
 
     - None of whom will be saved except for this one
 
-- ****Ibnu Taymiyyah got this from the hadith regarding the 73 sects****
+- ***Ibnu Taymiyyah got this from the hadith regarding the 73 sects***
 
     <aside>
 
@@ -331,23 +315,15 @@ Created: January 21, 2021 5:11 AM
 
 ---
 
-  
-
 # Imaan
-
-  
 
 ![Introduction%206384711b364740edac78bedefceab9a1/Screen_Shot_2021-02-04_at_04.17.42.png](Screen_Shot_2021-02-04_at_04.17.42.png)
 
-  
-
 > "It (creed) entails Iman (firm belief) in Allah, His angels, His books, His messengers, the Ressurection and the Destiny - the good of it and the evil of it."
 
-> 
+- ***The word imaan***
 
-- ****The word** ***_imaan*_****
-
-    - ****Linguistically****
+    - ***Linguistically***
 
         Is firm belief in something. Not in a general (tasdiq) sense. It is to believe in detail & hold on firmly to it.
 
@@ -355,7 +331,7 @@ Created: January 21, 2021 5:11 AM
 
         Iman is not just tasdiq (believing something to be true) but firmly, having a convinction in that thing.
 
-    - ****Islamically****
+    - ***Islamically***
 
         Some scholars divided Imaan into 2/3/5  
 
@@ -393,7 +369,7 @@ Created: January 21, 2021 5:11 AM
 
     There is no doubt that only Allah knows what is in your heart, but you cannot take one from the other as your actions is the manifestation of what is within. 
 
-    ****Evidences :****
+    ***Evidences :***
 
     <aside>
 
@@ -409,7 +385,7 @@ Created: January 21, 2021 5:11 AM
 
     [40 Hadith of Imam An-Nawawi](https://www.notion.so/40-Hadith-of-Imam-An-Nawawi-f877d72811744ab5afb622d9d666b995)
 
-- ****Imaan & Aqeedah****
+- ***Imaan & Aqeedah***
 
     The sheikh equates imaan and aqeedah. The word imaan is used in the Quran & Sunnah widely, while aqeedah is a more modern terminology. Thus why he mentioned 'Our aqeedah is ... ' the 6 pillars of iman. 
 
@@ -425,7 +401,7 @@ Created: January 21, 2021 5:11 AM
 
     </aside>
 
-- ****The General & Specific Imaan****
+- ***The General & Specific Imaan***
 
     In regards to the pillars, it contains 2 things : 
 
@@ -435,7 +411,7 @@ Created: January 21, 2021 5:11 AM
 
     [Imaan](https://www.notion.so/b9fc129011c2495e9419144bbac600fc)
 
-- ****Needs Organizing & Re Listen****
+- ***Needs Organizing & Re Listen***
 
     As shafat : 181 - 183
 
@@ -460,10 +436,8 @@ Created: January 21, 2021 5:11 AM
     there is no way for those who follow the sunnah to turn away from what the prophet has came with. because it is the siratal mustaqim.
 
     In QS Surah An-Nisa 69 Allah describes those who are in the straight path is the one who are   
-
+![[4-69]]
     > And whoever obeys Allah and the Messenger - those will be with the ones upon whom Allah has bestowed favor of the prophets, the steadfast affirmers of truth, the martyrs and the righteous. And excellent are those as companions.
-
-    > 
 
     What it means when we talk about Allah's names and attributes?
 
@@ -497,27 +471,15 @@ Created: January 21, 2021 5:11 AM
 
 ### Imaan in Allah
 
-  
-
 ![Introduction%206384711b364740edac78bedefceab9a1/Screen_Shot_2021-04-13_at_06.24.38.png](Screen_Shot_2021-04-13_at_06.24.38.png)
-
-  
 
 > "And from faith in Allah is the faith in what He describes Himself with in His Book, and what His Messenger Muhammad Salallahualaihiwassalam has described Him with."
 
-> 
-
-  
-
 ![Introduction%206384711b364740edac78bedefceab9a1/Screen_Shot_2021-04-26_at_11.48.39.png](Screen_Shot_2021-04-26_at_11.48.39.png)
-
-  
 
 > "They do not negate what He describes Himself with, and they do not distort the words from their places. They do not engage in llhad concerning Allah's Names and His Ayat. They do not engage in Takyif, nor likening His Attributes to attributes of His creation; because He, Glorious is He, is such that there is none similar to Him, and no co-equal to Him, and no rival for Him, and He, Glorious and Exalted is He, is not comparable to His creation. Because He is more knowledgeable about Himself and other than Him, and the most truthful in speech, and better at narrating than His creation."
 
-> 
-
-- ****Surah Al Ikhlas & The Attributes of Allah****
+- ***Surah Al Ikhlas & The Attributes of Allah***
 
     Surah Al Ikhlas is worth 1/3 of the Qur'an and the meaning of the surah is to describe Allah's attributes which is Al-Ahad/Al-Wahid and As-Samad. 
 
@@ -535,7 +497,7 @@ Created: January 21, 2021 5:11 AM
 	Twisting or taking the meaning away from the original meaning.
 	Ibn Taymiyyah here used the word Tahrif while some scholars use the word Tawil. The former is better to use is because the word Ta'wil does come with the meaning of Tahrif, however it also has a positive meaning. This word can also means Tafseer, and it can also mean the eventual outcome of something. On the other hand, the word Tahrif is always & is exclusively negative in the Qur'an. ^0fd61a
 
-    2. ****At-Ta'til (Denial)****
+    2. ***At-Ta'til (Denial)***
 
         To negate it. 
 
@@ -549,7 +511,7 @@ Created: January 21, 2021 5:11 AM
 
             - QS Al - Furqan (25:60)
 
-            > 
+            ![[25-60]]
 
             In this verse, the disbelievers deny the attribute of Allah that is 'The Most Merciful' or Ar-Rahman.
 
@@ -561,7 +523,7 @@ Created: January 21, 2021 5:11 AM
 
             → When you study the beliefs of Ahlul Bid'ah you will find a lot of things does not make sense.
 
-    3. ****At-Takyif (Saying How)****
+    3. ***At-Takyif (Saying How)***
 
         Comes from the Arabic word 'kayifa?', in other words, asking 'how'. In this context means asking things like, 'How does Allah see?'.
 
@@ -569,7 +531,7 @@ Created: January 21, 2021 5:11 AM
 
         - QS Al - Isra (7:36)
 
-        > 
+        ![[7-36]] 
 
         A person came to Imam Malik and asked 'How do Allah rise above His throne?', then Imam Malik replied :
 
@@ -595,17 +557,14 @@ Created: January 21, 2021 5:11 AM
 
         - QS Al-Anbiya (21:23)
 
-        > 
+        
 
-    4. ****At-Tamsiyl (Likening/Comparison)****
+    4. ***At-Tamsiyl (Likening/Comparison)***
 
         Some scholars used the word *Tashbih* which means 'Resemblance'. The word 'Tamsiyl' as the sheikh used is more correct in meaning. Because when you say 'Allah has a hand', some of his creations also have a hand, which means a resemblance exists. But when you compare the hands of Allah and the hands of His creation, it is different. 
 
-        > "[He is] Creator of the heavens and the earth. He has made for you from yourselves, mates, and among the cattle, mates; He multiplies you thereby. **There is nothing like unto Him**, and He is the Hearing, the Seeing."
-
         - QS As-Shuraa (42:11)
-
-        > 
+       ![[42-11]]
 
         - Allah established that there is nothing [remotely] comparable to Allah
 
@@ -621,7 +580,7 @@ Created: January 21, 2021 5:11 AM
 
         - QS Maryam (19:65)
 
-        > 
+        ![[19-65]]
 
         - The word 'Samiyan' means His names & attributes
 
@@ -629,7 +588,7 @@ Created: January 21, 2021 5:11 AM
 
         - QS Al-Ikhlas (112:4)
 
-        > 
+        ![[112-4]]
 
         - The word 'Kufu' means comparable/co-equal/similar/equivalent
 
@@ -637,34 +596,23 @@ Created: January 21, 2021 5:11 AM
 
         - QS An-Nahl (16:74)
 
-        > 
-
         - This ayah prohibits comparing Allah to anything
 
         Again, this is because our intellect as humans cannot reach that knowledge. These ayah does not mean that you cannot say things like 'See that woman, she's generous but Allah is more generous.' This is because you are saying Allah is far more superior than His creations which is true.
 
-    5. ****Al-Ilhad****
+    5. ***Al-Ilhad***
 
         Some scholars may divide it into 5 including Al-Ilhad. But generally, it's the 4 mentioned above. Al-Ilhad almost encompasses all those 4.
 
         It generally means to deviate from the right path (in this case, the names and attributes of Allah). So, those 4 is included in it's meaning.
 
-- ****Point from the Author****
+- ***Point from the Author***
 
     Allah knows Himself better. Therefore it's not right for us to use our minds to think about Allah's names & attributes when Allah is more knowledgeable about Himself. Even the prophet said "I cannot perfect my praise of You. You are as You praise Yourself." 
 
     Because no one knows Allah better than Himself, and Allah is the Most Truthful in speech, and nobody can describe Him better than Himself, there is no doubt that we should take about Allah from what Allah has said about Himself, and from the Prophet who took it from Him as well.
 
-  
-
 ---
-
-  
-
 ![Introduction%206384711b364740edac78bedefceab9a1/Screen_Shot_2021-04-26_at_12.09.17.png](Screen_Shot_2021-04-26_at_12.09.17.png)
 
-  
-
 > "Then, His Messengers who are the truthful ones, those who were entrusted (Musdiiqun) unlike those who say about Allah what they know not."
-
->
