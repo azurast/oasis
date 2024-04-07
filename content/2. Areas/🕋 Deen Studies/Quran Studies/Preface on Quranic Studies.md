@@ -1,0 +1,2 @@
+- My primary source for the tafseer notes written in this folder are from the [Your Daily Juz | Tafseer 2024](https://youtube.com/playlist?list=PL2dRQaGGWZOBYkqSWcfhzetBvPKOUFkf4&si=fAajXHigJACDMXJQ) series by [Al Madrasatul Al Umariyyah](https://www.youtube.com/@AMAUofficial) taught by [Ustadh Muhammad Tim Humble](https://www.instagram.com/muhammadtimhumble/).
+- I might add my own notes as time goes by, from various sources as I learn more. 
