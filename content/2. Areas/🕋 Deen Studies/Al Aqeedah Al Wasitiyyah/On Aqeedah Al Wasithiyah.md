@@ -8,7 +8,7 @@ I like taking notes with my iPad too, and I happen to take the notes for the cla
 
 - [[Pertemuan 1 - Aqidah Al Wasitiyyah.pdf|01 - Mengenal Lebih Dekat Syaikhul Islam Ibn Taymiyyah]]
 - [[Pertemuan 2 - Aqidah Al Wasitiyyah.pdf|02 - Penjelasan Tentang Firqatun Najiyah]]
-- [[Pertemuan 3 Aqidah Al Wasitiyyah.pdf|03 - Karakteristik Firqatun Najiyah]]
+- [[Pertemuan 3 - Aqidah Al Wasitiyyah.pdf|03 - Karakteristik Firqatun Najiyah]]
 - [[Pertemuan 4 - Aqidah Al Wasitiyyah.pdf|04 - Asma Waa Sifaat]]
 - [[Pertemuan 5 - Aqidah Al Wasitiyyah.pdf|05 - Tafsir Surat Al Ikhlas]]
 - [[content/2. Areas/🕋 Deen Studies/Al Aqeedah Al Wasitiyyah/Bahasa Class/Attachments/Pertemuan 6 - Aqidah Al Wasitiyyah.pdf|06 - Tafsir Ayat Kursi]]
