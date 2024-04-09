@@ -16,7 +16,9 @@ concurrency:
  
 jobs:
   build:
-    runs-on: ubuntu-22.04
+    runs-on: self-hosted
+    env:
+      RUNNER_NAME: 'AzurasMcBookPro'
     steps:
       - uses: actions/checkout@v3
         with:

@@ -15,6 +15,8 @@ jobs:
       matrix:
         os: [windows-latest, macos-latest, ubuntu-latest]
     runs-on: self-hosted
+    env:
+      RUNNER_NAME: 'AzurasMcBookPro'
     permissions:
       contents: write
     steps:
