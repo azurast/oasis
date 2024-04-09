@@ -1,47 +1,63 @@
 name: Deploy Quartz site to GitHub Pages
- 
+
 on:
   push:
     branches:
       - v4
- 
+
 permissions:
   contents: read
   pages: write
   id-token: write
- 
+
 concurrency:
   group: "pages"
   cancel-in-progress: false
- 
+
 jobs:
-  build:
+  build-on-self-hosted:
     runs-on: self-hosted
     env:
       RUNNER_NAME: 'AzurasMcBookPro'
     steps:
-      - uses: actions/checkout@v3
+      - name: Checkout code
+        uses: actions/checkout@v3
         with:
-          fetch-depth: 0 # Fetch all history for git info
-      - uses: actions/setup-node@v3
+          fetch-depth: 0  # Fetch all history for git info
+
+      - name: Setup Node
+        uses: actions/setup-node@v3
         with:
           node-version: 18.14
+
       - name: Install Dependencies
         run: npm ci
+
       - name: Build Quartz
         run: npx quartz build
+
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v2
+        uses: actions/upload-artifact@v2
         with:
-          path: public
- 
+          name: public
+          path: ./public
+
   deploy:
-    needs: build
+    needs: build-on-self-hosted
     environment:
       name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
+      url: ${{ steps.build-on-self-hosted.outputs.page_url }}  # Use the correct step name
     runs-on: ubuntu-latest
     steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0  # Fetch all history for git info
+
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v2
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          # keep_files: true  # Optional: Keeps existing files in the gh-pages branch
+          # cleanup: false    # Optional: Prevents the action from clearing out existing files
