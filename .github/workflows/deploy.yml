@@ -39,14 +39,13 @@ jobs:
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v2
         with:
-          name: public
-          path: ./public
+          path: public
 
   deploy:
     needs: build-on-self-hosted
     environment:
       name: github-pages
-      url: ${{ steps.build-on-self-hosted.outputs.page_url }}
+      url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
     steps:
       - name: Checkout code
