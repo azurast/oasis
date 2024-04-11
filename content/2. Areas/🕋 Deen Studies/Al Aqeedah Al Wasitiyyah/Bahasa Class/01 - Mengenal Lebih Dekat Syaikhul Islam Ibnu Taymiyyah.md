@@ -25,7 +25,7 @@ Original Handwritten PDF: [[Pertemuan 1 - Aqidah Al Wasitiyyah.pdf]]
 - Keluarga beliau adalah keluarga ulama, sehingga sedari kecil ia sudah senang belajar.
 - Beliau berhasil khatam Qur'an di umur yang masih kecil dan segera belaajr banyak hal seperti hadith dan Bahasa Arab. Beliau sudah duduk di majelis ilmu sedari kecil.
 
-> [! Note] Faidah
+> [!note] Faidah
 > Pentingnya membuat lingkungan yang memupuk kebiasaan baik dalam agama karena anak itu mencontoh keluarganya, terutama orang tua.
 
 ### Sangat Pintar dan Cepat Menghafal
@@ -33,7 +33,7 @@ Original Handwritten PDF: [[Pertemuan 1 - Aqidah Al Wasitiyyah.pdf]]
 - Hafalan beliau sangatlah kuat. Pernah ada syeikh yang mencoba menguji hafalan beliau dan ia bisa menghafal 13 hadith yang baru saja diajarkan secara cepat dan bisa mengutarakannya kembali.
 - Ibnu Taymiyyah memiliki sekitar 200 guru dan juga banyak murid yang diantaranya menjadi pemuka agama Islam seperti [Ibnu Qayyim Al Jawzi](https://id.wikipedia.org/wiki/Ibnul_Qayyim_al-Jauziyyah) dan juga [Ibnu Katsir](https://id.wikipedia.org/wiki/Ibnu_Katsir), [Imam Ad-Dhahabi](https://id.wikipedia.org/wiki/Imam_adz-Dzahabi).
 
-> [! Note] Faidah
+> [!note] Faidah
 > Pada dasarnya kita dianjurkan untuk belalajar dari banyak guru selama pemahamannya benar sesuai Al-Qur'an dan As-Sunnah.
 
 - Imam Ad-Dhahabi mendeskripsikan sosok fisik Ibnu Taymiyah:
@@ -55,7 +55,7 @@ Selain itu, sifat-sifat lain yang dimiliki Ibnu Taymiyyah adalah:
 - Jika beliau mengalami masalah yang tidak dapat diselesaikan, maka beliau akan beristighfar dalam jumlah yang banyak, bisa sampai 1000x dan kemudian merasakan manfaatnya (karena merasa lebih baik setelah istighfar).
 - Setiap hari membaca 3 juz dan khatam setiap 10 hari.
 
-> [! Note] Faidah
+>  [!note] Faidah
 > - Ilmu harus berbuahkan amal.
 > - Jika merasa gundah/ada masalah, coba beristigfar dan meminta ampun kepada Allah. Bahkan istighfar bisa mendatangkan rezeki.
 
@@ -71,7 +71,7 @@ Selain itu, sifat-sifat lain yang dimiliki Ibnu Taymiyyah adalah:
 - Beliau lebih mendahuli orang lain dalam perkara dunia ([Itsar](https://muslim.or.id/10250-itsar-mendahulukan-saudaranya-dari-diri-sendiri-1.html)).
 - Tetap bersedekah walau dalam kondisi tidak memiliki apapun.
 
-> [! Note] Faidah
+>  [!note] Faidah
 > Sedekah bukan hanya amalan orang kaya. Siapapun bisa bersedekah dengan apa yang ia miliki. Faidah ini mengingatkan saya dengan [[3-92|Surat Al Imran : 92]]
 
 ### Pemberani
@@ -86,7 +86,7 @@ Selain itu, sifat-sifat lain yang dimiliki Ibnu Taymiyyah adalah:
 - Sebagian orang berharap dirinya terhadap temannya sebagaimana Ibnu Taymiyyah kepada musuhnya.
 ### Hamba Allah yang Bersabar
 
-> [! Quote] 
+> [!quote] Quote 
 > "Apa yang dilakukan oleh musuh-musuhku terhadapku? Sesungguhnya surga dan tamanku ada di hatiku. Ketika mereka mengusir dari negeriku maka itu seperti bertamasya, ketika aku dipenjara maka itu adalah tempat untuk menyendiri bersama Allah Ta’alla, ketika aku dibunuh maka mati syahid bagiku.”
 > - Ibnu Taymiyyah
 > [Sumber](https://www.threads.net/@galantalbrk)

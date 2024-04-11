@@ -19,7 +19,7 @@ Original Handwritten PDF: [[Pertemuan 2 - Aqidah Al Wasitiyyah.pdf]]
 ### Mengapa dinamakan Aqidah Al Wasitiyah?
 Telah datang kepada Ibnu Taymiyyah seorang tokoh dari madzhab Syafii setelah dirinya berhaji. Ia bercerita tentang banyak penyimpangan yang terjadi di negerinya. Ia meminta Ibnu Taymiyyah untuk menuliskan aqidah yang benar baginya dan keluarganya. Namun, beliau menolak karena merasa tidak sanggup. Namun orang ini terus membujuk Ibnu Taymiyyah yang akhirnya menulis buku ini di waktu antara ashar dan maghrib. Nama sosok ini adalah Radi Al-Din yang berasal dari sebuah kota bernama Wasith.
 
-> [! Note] Faidah
+> [!note] Faidah
 > Keberkahan sebuah pertanyaan yang membuahkan ilmu.
 
 ## Pembukaan
@@ -31,7 +31,7 @@ Telah datang kepada Ibnu Taymiyyah seorang tokoh dari madzhab Syafii setelah dir
 - Translasi dari Firqatun Najiyah adalah **kelompok yang selamat**, yaitu kelompok yang dimenangkan oleh Allah sampai hari kiamat.
 - ![[3-106]]
 - ![[3-107]]
-- ![[73 Sects of Islam#🇮🇩]]
+- ![[73 Sects of Islam#Indonesian 🇮🇩]]
 ### Nama-nama lain untuk Firqatun Najiyah
 - Ahlussunnah wal Jamaah
 - As-Salafiyyun (orang yang mengikuti para salaf, yakni 3 generasi terbaik)

@@ -1,7 +1,7 @@
 The book [Aqeedah Al Wasithiyah](https://en.wikipedia.org/wiki/Al-Aqidah_Al-Waasitiyyah) is one of the most prominent books on the topic of aqeedah, created by the renowned scholar [Ibn Taymiyyah](https://en.wikipedia.org/wiki/Ibn_Taymiyya) *rahimahullah*. This book is often discussed repeatedly by the teachers I learn from. I took the English class back in 2022 and is currently taking the class in Bahasa in 2024.
 
 ## Bahasa Class
-> [! Info]
+> [!info] Info
 > The notes displayed here are from the classes held by [nakhla mengaji](https://www.instagram.com/nakhlamengaji/?hl=en) from the Dauroh Aqidah Ramadan 1445H series. Taught by [Ustadh Hamdi Solah Al Bakry](https://www.instagram.com/hamdialbakry/). You can find the live recordings of this class [here](https://www.youtube.com/watch?v=igbZFRbJwQk&list=PLimUJP3KzR4_-H0NlLEfN9ilIJKA0Uz7m).
 
 I like taking notes with my iPad too, and I happen to take the notes for the class in Bahasa on my iPad, and you can find the files here:
@@ -21,7 +21,7 @@ I like taking notes with my iPad too, and I happen to take the notes for the cla
 I might convert them to markdown if I have the chance InshaAllah.
 ## English Class
 
-> [! Info]
+> [!info] Info
 > The notes displayed here are from the classes held by the brothers at [knowledge college](https://www.knowledgecollegeonline.com) back in 2022. This class was taught by [Ustadh Muhammad Tim Humble](https://www.instagram.com/muhammadtimhumble/?hl=en).
 
 I'm still migrating my old notes from Notion to Obsidian so it's going to be a long work in progress, but the notes can be found here:

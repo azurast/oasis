@@ -52,7 +52,7 @@ Selain tradisi, orang-orang seringkali juga berpijak dalam mimpi ketika beragama
 - Para ulama mengumpamakan dalil bagaikan cahaya matahari dan akal bagaikan cahaya lilin.
 - Antara wahyu dan akal bagaikan seorang tabib dan orang awam. Ibnu Taymiyyah memberikan perumpamaan: Jika seseorang sakit dan ingin berobat, kemudian ia mencari tabib kesana kemari dan bertemu dengan seseorang yang mengarahkan dirinya kepada tabib. Setelah selesai berobat, ia bertemu lagi dengan orang yang menolongnya kemudian orang tersebut menyuruh dirinya untuk tidak meminum obat yang diberikan oleh sang tabib. Tentu kita tidak akan mengikuti perintah orang ini karena sang tabib lah yang lebih tau mengenai penyakit yang dialami.
 
-> [! Note] Faidah
+> [!note] Faidah
 > Betul, akal yang menjadi sebab kita bisa membaca, bertanya, datang ke kajian, dll. Tapi, bukan berarti kita harus tunduk kepadanya.
 
 ## 6. Yakin agama Islam telah sempurna sehingga mereka berhati-hati terhadap bid'ah. Serta memperingati manusia atas bahayanya.
@@ -68,7 +68,7 @@ Selain tradisi, orang-orang seringkali juga berpijak dalam mimpi ketika beragama
 
 - Imam Malik mengatakan terhadap **orang yang percaya bahwa bid'ah itu baik** maka seakan-akan ia percaya bahwa Nabi Muhammad telah berbuat khianat. Dalam hal ini, maksud dari Imam Malik adalah, seakan-akan Nabi belum meberitahukan semuanya dan ada yang disimpan sebagian (tidak diberitahukan kepada umatnya). 
 - **Bagaimana mungkin kita bisa masuk surga tempat beliau berada tanpa mengikuti ajarannya?**
- ![[Have Taqwa in Allah, Hold on to Sunnah, and Beware of Bid'ah#🇮🇩]]
+ ![[Have Taqwa in Allah, Hold on to Sunnah, and Beware of Bid'ah#Indonesian 🇮🇩]]
  ## 7. Meyakini orang-orang terbaik adalah para Salafussalih
 ![[9-100]]
 
@@ -78,7 +78,7 @@ Selain tradisi, orang-orang seringkali juga berpijak dalam mimpi ketika beragama
 	2. Tabiin (Murid para sahabat)
 	3. Tabiut Tabiin (Murid para tabiin)
 
-![[The Salaf#🇮🇩]]
+![[The Salaf#Indonesian 🇮🇩]]
 
 ## 8. Orang yang memiliki sikap pertengahan, tidak berlebihanm dan juga tidak bermudah-mudahan.
 

@@ -17,6 +17,7 @@ const config: QuartzConfig = {
     locale: "en-US",
     baseUrl: "quartz.jzhao.xyz",
     ignorePatterns: [
+      "content-private",
       "private", 
       "**/private",
       "0. Directory",
