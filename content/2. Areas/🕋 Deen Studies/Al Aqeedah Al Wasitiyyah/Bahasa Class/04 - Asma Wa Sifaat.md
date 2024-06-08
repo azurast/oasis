@@ -16,7 +16,7 @@ Terdapat **3 cara mentauhidkan Allah:**
 
 ## 1. Mengimani seluruh nama-nama dan sifat-sifat Allah yang terdapat dalam Al-Qur'an dan As-Sunnah
 
-![[content/2. Areas/🕋 Deen Studies/Quran Studies/Surahs/private/65 At-Talaq (The Divorce)/65-12|65-12]]
+![[content/2. Areas/🕋 Deen Studies/Quran Studies/Surahs/65 At-Talaq (The Divorce)/65-12|65-12]]
 
 Perbedaan antara nama dan sifat Allah:
 - Nama pasti mengandung sifat.
@@ -39,7 +39,7 @@ Contoh:
 
 Hal ini didasarkan firman Allah yang melarang kita untuk berbicara tentang hal yang tidak kita miliki ilmunya.
 
-![[content/2. Areas/🕋 Deen Studies/Quran Studies/Surahs/private/17 Al-Isra (The Night Journey)/17-36|17-36]]
+![[content/2. Areas/🕋 Deen Studies/Quran Studies/Surahs/17 Al-Isra (The Night Journey)/17-36|17-36]]
 
 Contohnya, kita meyakini bahwa Allah Maha Mendengar dan Maha Mengetahui. Namun, apakah hal ini menjadikan kita yakin bahwa Allah memiliki telinga? La. Karena tidak ada dalil yang mengatakan maupun meniadakan hal tersebut maka kita tidak diperbolehkan untuk berkata apa-apa. Sebagaimana firman Allah dalam Surat An-Nisa ayat 144, tidak ada yang lebih mengetahui Allah lebih baik dari diriNya.
 
@@ -49,15 +49,15 @@ Contohnya, kita meyakini bahwa Allah Maha Mendengar dan Maha Mengetahui. Namun, 
 
 Dalil yang menjelaskan landasan kedua ini ada banyak, diantaranya adalah:
 
-![[content/2. Areas/🕋 Deen Studies/Quran Studies/Surahs/private/42 Ash-Shuraa (The Consultation)/42-11|42-11]]
+![[content/2. Areas/🕋 Deen Studies/Quran Studies/Surahs/42 Ash-Shuraa (The Consultation)/42-11|42-11]]
 
-![[content/2. Areas/🕋 Deen Studies/Quran Studies/Surahs/private/16 An-Nahl (The Bee)/16-74|16-74]]
+![[content/2. Areas/🕋 Deen Studies/Quran Studies/Surahs/16 An-Nahl (The Bee)/16-74|16-74]]
 
-![[content/2. Areas/🕋 Deen Studies/Quran Studies/Surahs/private/16 An-Nahl (The Bee)/16-60|16-60]]
+![[content/2. Areas/🕋 Deen Studies/Quran Studies/Surahs/16 An-Nahl (The Bee)/16-60|16-60]]
 
-![[content/2. Areas/🕋 Deen Studies/Quran Studies/Surahs/private/30 Ar-Rum (The Romans)/30-27|30-27]]
+![[content/2. Areas/🕋 Deen Studies/Quran Studies/Surahs/30 Ar-Rum (The Romans)/30-27|30-27]]
 
-![[content/2. Areas/🕋 Deen Studies/Quran Studies/Surahs/private/19 Maryam (Mary)/19-65|19-65]]
+![[content/2. Areas/🕋 Deen Studies/Quran Studies/Surahs/19 Maryam (Mary)/19-65|19-65]]
 
 ![[112-1]]
 
@@ -65,11 +65,11 @@ Dalil yang menjelaskan landasan kedua ini ada banyak, diantaranya adalah:
 
 Dan pada Surat Al-Mujadilah, Allah berkisah tentang Kahula Binti Tsa'labah. Seorang wanita yang keluhannya didengar dari langit ketujuh.
 
-![[content/2. Areas/🕋 Deen Studies/Quran Studies/Surahs/private/58 Al-Mujadila (The Pleading Woman)/58-1|58-1]]
+![[content/2. Areas/🕋 Deen Studies/Quran Studies/Surahs/58 Al-Mujadila (The Pleading Woman)/58-1|58-1]]
 
 Dan pada Surat Al-Insan ayat 2 dimana dijelaskan sifat mendengar dan melihat manusia itu berbeda dengan sifat mendengar dan melihatnya Allah.
 
-![[content/2. Areas/🕋 Deen Studies/Quran Studies/Surahs/private/76 Al-Insan (The Man)/76-2|76-2]]
+![[content/2. Areas/🕋 Deen Studies/Quran Studies/Surahs/76 Al-Insan (The Man)/76-2|76-2]]
 
 > [! info] Tentang perbedaan sifat Allah dan manusia
 > Sifat 'turun', ketika tidak disematkan pada objek, maka maknanya umum. Namun, ketika disandarkan pada objek, maka sifatnya berubah. 
